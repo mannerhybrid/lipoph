@@ -1,7 +1,6 @@
 
 import numpy as np
 
-print("Hello Metrics")
 
 """# Model Metrics
 

@@ -1,6 +1,8 @@
 
 import numpy as np
 
+print("Hello Metrics")
+
 """# Model Metrics
 
 Here are metrics to be evaluated:
